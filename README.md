@@ -14,4 +14,4 @@ This application is command line or terminal interfaced, which will do:
 5. Do-what-it-say: will retrieve the data in the random.txt file.
 6. Bonus task: createLog() creates a log.txt and add each search result to it.
 
-liri-node-app.gif
+https://youtu.be/OgAIlh_oIRE
